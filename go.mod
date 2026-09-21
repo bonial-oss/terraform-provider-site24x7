@@ -1,16 +1,16 @@
-module github.com/Bonial-International-GmbH/terraform-provider-site24x7
+module github.com/bonial-oss/terraform-provider-site24x7
 
 go 1.25.10
 
 require (
-	github.com/Bonial-International-GmbH/site24x7-go v0.0.7
+	github.com/bonial-oss/site24x7-go v0.0.7
 	github.com/hashicorp/terraform-plugin-sdk v1.17.2
 	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
 )
 
 // uncomment for local testing of unreleased api client
-// replace github.com/Bonial-International-GmbH/site24x7-go => ../site24x7-go
+// replace github.com/bonial-oss/site24x7-go => ../site24x7-go
 
 require (
 	cloud.google.com/go v0.65.0 // indirect

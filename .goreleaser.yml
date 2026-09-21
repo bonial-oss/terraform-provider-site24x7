@@ -42,7 +42,7 @@ signs:
       - "${artifact}"
 release:
   github:
-    owner: Bonial-International-GmbH
+    owner: bonial-oss
     name: terraform-provider-site24x7
 changelog:
   sort: asc

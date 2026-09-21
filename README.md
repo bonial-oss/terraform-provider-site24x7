@@ -1,9 +1,9 @@
 terraform-provider-site24x7
 ===========================
 
-[![Build Status](https://github.com/Bonial-International-GmbH/terraform-provider-site24x7/workflows/build/badge.svg)](https://github.com/Bonial-International-GmbH/terraform-provider-site24x7/actions?query=workflow%3Abuild)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Bonial-International-GmbH/terraform-provider-site24x7?style=flat)](https://goreportcard.com/report/github.com/Bonial-International-GmbH/terraform-provider-site24x7)
-[![GoDoc](https://godoc.org/github.com/Bonial-International-GmbH/terraform-provider-site24x7?status.svg)](https://godoc.org/github.com/Bonial-International-GmbH/terraform-provider-site24x7)
+[![Build Status](https://github.com/bonial-oss/terraform-provider-site24x7/workflows/build/badge.svg)](https://github.com/bonial-oss/terraform-provider-site24x7/actions?query=workflow%3Abuild)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bonial-oss/terraform-provider-site24x7?style=flat)](https://goreportcard.com/report/github.com/bonial-oss/terraform-provider-site24x7)
+[![GoDoc](https://godoc.org/github.com/bonial-oss/terraform-provider-site24x7?status.svg)](https://godoc.org/github.com/bonial-oss/terraform-provider-site24x7)
 
 A terraform provider for managing Site24x7 monitors which currently supports
 the following resources:
@@ -18,7 +18,7 @@ Installation
 Clone the repository and build the provider:
 
 ```sh
-git clone git@github.com:Bonial-International-GmbH/terraform-provider-site24x7
+git clone git@github.com:bonial-oss/terraform-provider-site24x7
 cd terraform-provider-site24x7
 make install
 ```

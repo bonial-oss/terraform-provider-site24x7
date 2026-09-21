@@ -1,9 +1,9 @@
 package site24x7
 
 import (
-	site24x7 "github.com/Bonial-International-GmbH/site24x7-go"
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
-	apierrors "github.com/Bonial-International-GmbH/site24x7-go/api/errors"
+	site24x7 "github.com/bonial-oss/site24x7-go"
+	"github.com/bonial-oss/site24x7-go/api"
+	apierrors "github.com/bonial-oss/site24x7-go/api/errors"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 )
 
