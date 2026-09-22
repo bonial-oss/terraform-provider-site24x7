@@ -3,7 +3,7 @@ module github.com/bonial-oss/terraform-provider-site24x7
 go 1.25.10
 
 require (
-	github.com/bonial-oss/site24x7-go v0.0.7
+	github.com/bonial-oss/site24x7-go v0.0.8
 	github.com/hashicorp/terraform-plugin-sdk v1.17.2
 	github.com/sirupsen/logrus v1.9.4
 	github.com/stretchr/testify v1.11.1
