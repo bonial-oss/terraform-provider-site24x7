@@ -3,9 +3,9 @@ package site24x7
 import (
 	"testing"
 
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
-	apierrors "github.com/Bonial-International-GmbH/site24x7-go/api/errors"
-	"github.com/Bonial-International-GmbH/site24x7-go/fake"
+	"github.com/bonial-oss/site24x7-go/api"
+	apierrors "github.com/bonial-oss/site24x7-go/api/errors"
+	"github.com/bonial-oss/site24x7-go/fake"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

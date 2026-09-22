@@ -4,8 +4,8 @@ import (
 	"os"
 	"time"
 
-	site24x7 "github.com/Bonial-International-GmbH/site24x7-go"
-	"github.com/Bonial-International-GmbH/site24x7-go/backoff"
+	site24x7 "github.com/bonial-oss/site24x7-go"
+	"github.com/bonial-oss/site24x7-go/backoff"
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
 	"github.com/hashicorp/terraform-plugin-sdk/terraform"
 	log "github.com/sirupsen/logrus"

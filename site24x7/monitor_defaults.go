@@ -3,8 +3,8 @@ package site24x7
 import (
 	"errors"
 
-	site24x7 "github.com/Bonial-International-GmbH/site24x7-go"
-	"github.com/Bonial-International-GmbH/site24x7-go/api"
+	site24x7 "github.com/bonial-oss/site24x7-go"
+	"github.com/bonial-oss/site24x7-go/api"
 )
 
 // DefaultLocationProfile fetches the first location profile returned by the

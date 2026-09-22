@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Bonial-International-GmbH/terraform-provider-site24x7/site24x7"
+	"github.com/bonial-oss/terraform-provider-site24x7/site24x7"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 
